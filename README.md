@@ -1,7 +1,7 @@
 # brightness
 Brightness control tool.
 
-This simple Python script is designed to control brightness in GhostBSD. It can work with any window manager, including: KDE, Mate, i3, Xfce, OpenBox, etc... 
+This simple Python script is made to control brightness in GhostBSD. It can work with any window manager, including: KDE, Mate, i3, Xfce, OpenBox, etc... 
 
 Requirements (List of packages required for this script to work):
 1) Python (≥3)
